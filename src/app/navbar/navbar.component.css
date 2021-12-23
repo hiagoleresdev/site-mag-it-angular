@@ -1,0 +1,11 @@
+
+.navbar-nav{
+  font-size: 20px;
+}
+.nav-item a{
+  margin-right: 60px;
+  color: white;
+}
+.navbar{
+  background-color: rgb(25,26,28);
+}
